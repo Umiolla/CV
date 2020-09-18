@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to left, palevioletred, #ff9c71, #fbd46d, bisque)
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 5px;
+  border-color: indianred;
+}
+h1 {
+  color:#940a0a;
+  text-shadow: 2px 2px 5px white
+}
+h3{
+  color:#940a0a;
+  text-shadow: 2px 2px 5px white
+}
